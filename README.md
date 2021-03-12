@@ -1,4 +1,4 @@
-# segundoAppFlutter
+# Segundo App Flutter
 Continuando o aprendizado na linguagem dart, com o framework flutter, para a matéria de Programação de dispositimos móveis.
 Faculdade de Tecnologia de Ribeirão Preto/SP/Brasil.
 
